@@ -2,10 +2,9 @@
 #Here a function to create and manniluate cache of a matrix is created
 # The function is comsposed of two parts:
 
-#makeCacheMatrix and cacdheSolve.
-# In the first one a special matrix obkect is created while
-# in the second funciton returns an inverse of of the matrix object
-
+# makeCacheMatrix and cacheSolve.
+# In the first function, aspecial matrix object is created while
+# in the second function returns an inverse of the matrix object
 
 
 makeCacheMatrix <- function(x = matrix()) {
@@ -32,7 +31,7 @@ makeCacheMatrix <- function(x = matrix()) {
     invMatrix #the environment var inverse matrix is return
   }
   
-  #list of function for futere call within the environment
+  #list of function for future call within the environment
   list(set = set,
        get = get,
        setInvMatrix = setInvMatrix,
