@@ -1,10 +1,10 @@
 #This is the second Programming assignment
-#Here a function to create and manniluate cache of a matrix is created
-# The function is comsposed of two parts:
+#Here a function to create and manipulate cache of a matrix is created
+# The function is composed of two parts:
 
 # makeCacheMatrix and cacheSolve.
-# In the first function, aspecial matrix object is created while
-# in the second function returns an inverse of the matrix object
+# In the first function, a special matrix object is created while
+# the second function returns an inverse of the matrix object
 
 
 makeCacheMatrix <- function(x = matrix()) {
