@@ -1,6 +1,6 @@
 #This is the second Programming assignment
 #Here a function to create and manniluate cache of a matrix is created
-# The function is created of two parts:
+# The function is comsposed of two parts:
 
 #makeCacheMatrix and cacdheSolve.
 # In the first one a special matrix obkect is created while
